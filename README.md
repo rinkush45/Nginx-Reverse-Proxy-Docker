@@ -8,6 +8,7 @@ You can watch the full setup process in the video below:
 
 <video src="setup-demo.mp4" controls width="700">
   Your browser does not support the video tag.
+  https://www.youtube.com/watch?v=dfN7HyDc7eA
 </video>
 
 ---
@@ -16,10 +17,6 @@ You can watch the full setup process in the video below:
 
 ```
 Nginx-Reverse-Proxy-Docker
-│
-|
-├── media/
-│   └── setup-demo.mp4
 |
 ├── nginx/
 │   ├── nginx.conf
