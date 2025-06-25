@@ -1,6 +1,14 @@
 # Nginx-Reverse-Proxy-Docker Setup
 
-This project demonstrates a multi-service Docker setup with Nginx as a reverse proxy for two backend services: one written in Go and the other in Python.
+---
+
+## 📺 Video Setup Guide
+
+You can watch the full setup process in the video below:
+
+<video src="media/setup-demo.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -9,6 +17,10 @@ This project demonstrates a multi-service Docker setup with Nginx as a reverse p
 ```
 Nginx-Reverse-Proxy-Docker
 │
+|
+├── media/
+│   └── setup-demo.mp4
+|
 ├── nginx/
 │   ├── nginx.conf
 │   └── Dockerfile
@@ -118,5 +130,3 @@ Nginx-Reverse-Proxy-Docker
 4. Nginx will route requests to the appropriate backend service.
 
 ---
-
-If you want a deeper dive into the code logic of each service (e.g., what endpoints they expose, what business logic they implement), check the respective service README.md or source files. 
