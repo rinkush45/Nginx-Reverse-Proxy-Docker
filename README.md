@@ -6,7 +6,7 @@
 
 You can watch the full setup process in the video below:
 
-<video src="media/setup-demo.mp4" controls width="700">
+<video src="setup-demo.mp4" controls width="700">
   Your browser does not support the video tag.
 </video>
 
